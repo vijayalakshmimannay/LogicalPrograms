@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-LogicalPrograms.PerfectNumber perfect = new LogicalPrograms.PerfectNumber();
-perfect.Perfect();
+LogicalPrograms.PrimeNumber prime = new LogicalPrograms.PrimeNumber();
+prime.Prime();
