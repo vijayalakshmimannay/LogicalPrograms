@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-LogicalPrograms.TemperatureConversion temperature = new LogicalPrograms.TemperatureConversion();
-temperature.TempConvert();
+LogicalPrograms.SquareRoot root = new LogicalPrograms.SquareRoot();
+root.Square();
